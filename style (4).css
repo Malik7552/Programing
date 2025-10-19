@@ -1,0 +1,11 @@
+h1, h2 {
+  background: linear-gradient(135deg, #EED19C 40%, #8B5A2B 60%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #FFF8E7; /* soft beige background */
+}
